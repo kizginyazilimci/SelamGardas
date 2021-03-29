@@ -1,1 +1,1 @@
-console.log("Selam Gardaş!");
+console.log("Selam Gardaş!!");
